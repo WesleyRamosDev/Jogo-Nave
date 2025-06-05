@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Jogo da Nave Espacial
 
 **RA:** 010623062  
@@ -16,6 +16,4 @@ O objetivo é controlar uma nave espacial que desvia de meteoros enquanto o temp
    O jogo termina se a nave colidir com um meteoro.
 
 ---
-=======
-# Jogo-Nave
->>>>>>> 920b073695612cfadc1ef0f587b7682f70ed0b81
+
