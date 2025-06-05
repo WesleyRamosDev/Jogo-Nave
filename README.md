@@ -14,6 +14,9 @@ O objetivo é controlar uma nave espacial que desvia de meteoros enquanto o temp
 3. Desvie dos meteoros que caem de cima para baixo.
 4. A cada meteoro que passar sem colisão, você ganha 1 ponto.  
    O jogo termina se a nave colidir com um meteoro.
+
+
+
 ![image](https://github.com/user-attachments/assets/304042e5-9311-485c-94b5-b96ee8731da6)
 
 ---
